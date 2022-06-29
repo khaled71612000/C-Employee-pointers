@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635965904 source:c:\users\kspades\desktop\task 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+
